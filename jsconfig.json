@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"jsx": "preserve",
+		"baseUrl": ".",
+		"paths": {
+			"@assets/*": ["public/assets/*"],
+			"@config/*": ["src/config/*"],
+			"@components/*": ["src/components/*"],
+			"@features/*": ["src/features/*"],
+			"@lib/*": ["src/library/*"],
+			"@style/*": ["public/assets/style/*"]
+		}
+	}
+}
+/**
+|
+| !! Do not edit here
+|
+**/
